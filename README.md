@@ -2,7 +2,7 @@ Matlab Code for RPCA:
 
 Reference: Ying Huang, Zhi Wang*, Qiang Chen, Wu Chen. Robust Principal Component Analysis via Truncated L1−2 Minimization. IJCNN. 2023.
 
-This code is written by Ying Huang, Southwest Universiy, 2022
+This code is written by Ying Huang under the guidance of Dr. Zhi Wang, Southwest Universiy, 2022
 
 For algorithm interpretation, please read our paper, in which more details are demonstrated.
 
